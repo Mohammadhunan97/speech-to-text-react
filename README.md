@@ -8,7 +8,7 @@
 
 * npm start
 
-* go to browser and click allow when the browser prompts you to use your microphone
+* go to browser, on http://localhost:3000 and click allow when the browser prompts you to use your microphone
 
 * speak into your microphone and view your audio in turn into text in real time
 
